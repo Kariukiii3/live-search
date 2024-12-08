@@ -47,7 +47,8 @@ INSERT INTO `searchperson` (`id`, `name`, `age`, `country`, `email`, `occupation
 (2, 'ian', 21, 'india', 'ian@gmail.com', 'teacher'),
 (3, 'Kim', 23, 'usa', 'kim@gmail.com', 'chef'),
 (3, 'Kim', 23, 'usa', 'kim@gmail.com', 'chef'),
-(4, 'jack', 32, 'Uganda', 'jack@gmail.com', 'Driver');
+(4, 'jack', 32, 'Uganda', 'jack@gmail.com', 'Driver'),
+(5, 'brian', 31, 'Tanzania', 'brian@gmail.com', 'lawyer');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
